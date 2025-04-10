@@ -30,11 +30,8 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rcdelfin/rcdelfin/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rcdelfin/rcdelfin/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/rcdelfin/rcdelfin/output/github-snake.svg" />
-  </picture>
+  <img src="https://wakatime.com/share/@c4e82893-e283-4921-9cd3-53dd95258741/f1f3123e-72db-4ca1-a2b0-e482bc36c5c9.png" />
+  <br/>
 </div>
 
 ### 🚀 Showcasing My Epic Projects
