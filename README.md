@@ -28,45 +28,55 @@ I have 20+ years of experience building scalable web applications, REST APIs, cl
 
 ## Selected product work
 
-### GymEd
+### [Allied Health AU](https://www.alliedhealthau.com)
 
-A fitness platform for therapists and clients, combining client management, an exercise library, program building, session logging, and progress dashboards.
+**Full-Stack Web Developer**
 
-[Web app](https://app.gymed.com.au/) · [Website](https://www.gymed.com.au/)
+A practitioner-matching platform connecting people and referrers with vetted allied-health professionals for in-clinic, in-home, or telehealth care.
+
+`Laravel` · `Nuxt` · `AWS`
+
+### [GymEd](https://www.gymed.com.au/)
 
 **Backend/API Developer**
 
-`PHP` · `Laravel`
+Exercise-program software for exercise physiologists and allied-health professionals, covering client management, program building, session logging, and progress tracking.
+
+[Open web app](https://app.gymed.com.au/)
+
+`Laravel` · `REST APIs`
 
 ### [MoveWithUs™](https://movewithus.com/)
 
-A fitness platform with workout, nutrition, subscription, and community features.
+**Full-Stack Web Developer**
+
+A consumer fitness platform combining workouts, nutrition, subscriptions, and community experiences.
 
 `Laravel` · `Vue.js` · `AWS`
 
 ### [Appetiser Baseplate](https://baseplate.appetiserdev.tech/)
 
-A reusable application foundation designed to accelerate consistent delivery across web products.
+**Full-Stack Web Developer**
+
+A reusable application foundation that standardises architecture and accelerates consistent delivery across web products.
 
 `Laravel` · `Nuxt` · `AWS`
 
 ### [FitMe](https://fitme.tv/)
 
-A fitness platform supporting personalised programs, progress tracking, and user engagement.
+**Full-Stack Web Developer**
+
+A personalised fitness platform for program delivery, progress tracking, and ongoing user engagement.
 
 `Laravel` · `AWS`
 
-### [Allied Health AU](https://www.alliedhealthau.com/)
-
-Full-stack developer on an allied health platform supporting appointments and telehealth services.
-
-`Laravel` · `Nuxt` · `AWS`
-
 ### [Troly WooCommerce Extension](https://www.linkedin.com/showcase/troly-ioabc/about/)
 
-Web and WordPress plugin developer on a B2B platform supporting wineries, direct sales, e-commerce, and operational workflows.
+**Web Developer / WordPress Plugin Developer**
 
-`WordPress` · `WooCommerce` · `API integration`
+A B2B platform and WooCommerce integration supporting wineries, direct sales, e-commerce, and operational workflows.
+
+`WordPress` · `WooCommerce` · `API Integrations`
 
 ---
 
