@@ -72,6 +72,12 @@ Web and WordPress plugin developer on a B2B platform supporting wineries, direct
 
 ## Open source
 
+### [AgentKit](https://github.com/rcdelfin/agentkit)
+
+A cross-harness toolkit that keeps engineering instructions and reusable AI skills in one canonical source for Codex, Claude Code, Gemini CLI, and Pi.
+
+`JavaScript` · `Python` · `Shell`
+
 ### [Nuxt API Query](https://github.com/rcdelfin/nuxt-api-query)
 
 A fluent API query builder inspired by Eloquent-style developer ergonomics.
