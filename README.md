@@ -8,7 +8,7 @@
 
 ## I build reliable systems and ship useful products.
 
-I have 20+ years of experience building scalable web applications, REST APIs, cloud systems, and digital products. I work across the full delivery lifecycle—from architecture and backend services to frontend implementation, deployment, production support, and continuous product improvement.
+Full-stack web developer with 20+ years building web applications, cloud systems, and digital products. Delivers REST APIs and third-party integrations using PHP/Laravel, WordPress, Vue.js/Nuxt, SQL, AWS, and Docker. Experience includes architecture, delivery, production support, technical mentoring, AI workflow automation with n8n and Zapier, and AI-assisted development using Claude Code, Codex, or Pi Agent.
 
 [Selected work](#selected-product-work) · [Open source](#open-source) · [Recognition](#recognition) · [LinkedIn](https://www.linkedin.com/in/rcdelfin/)
 
