@@ -17,3 +17,6 @@ credentials.json
 service-account*.json
 .aws/
 .ssh/
+
+output/
+tmp/

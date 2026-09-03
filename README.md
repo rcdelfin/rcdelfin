@@ -2,13 +2,13 @@
 
 # Raymund Delfin
 
-**Full-Stack Web Developer · AI-Augmented Engineering**
+**Full-Stack Web Developer**
 
 `PHP/Laravel` · `Vue.js/Nuxt` · `AWS`
 
 ## I build reliable systems and ship useful products.
 
-Full-stack web developer with 20+ years building web applications, cloud systems, and digital products. Delivers REST APIs and third-party integrations using PHP/Laravel, WordPress, Vue.js/Nuxt, SQL, AWS, and Docker. Experience includes architecture, delivery, production support, technical mentoring, AI workflow automation with n8n and Zapier, and AI-assisted development using Claude Code, Codex, or Pi Agent.
+Full-stack web developer with 20+ years building web applications, cloud systems, and digital products. Delivers REST APIs and third-party integrations using PHP/Laravel, WordPress, Vue.js/Nuxt, SQL, AWS, and Docker. Work spans system design, product delivery, production support, code review, mentoring, workflow automation with n8n and Zapier, and AI-assisted development using Claude Code, Codex, or Pi Agent.
 
 [Selected work](#selected-product-work) · [Open source](#open-source) · [Recognition](#recognition) · [LinkedIn](https://www.linkedin.com/in/rcdelfin/)
 
